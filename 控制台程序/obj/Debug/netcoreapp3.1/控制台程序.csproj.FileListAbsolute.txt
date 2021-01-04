@@ -1,0 +1,13 @@
+E:\李润华\练手项目\C#\控制台程序\bin\Debug\netcoreapp3.1\控制台程序.exe
+E:\李润华\练手项目\C#\控制台程序\bin\Debug\netcoreapp3.1\控制台程序.deps.json
+E:\李润华\练手项目\C#\控制台程序\bin\Debug\netcoreapp3.1\控制台程序.runtimeconfig.json
+E:\李润华\练手项目\C#\控制台程序\bin\Debug\netcoreapp3.1\控制台程序.runtimeconfig.dev.json
+E:\李润华\练手项目\C#\控制台程序\bin\Debug\netcoreapp3.1\控制台程序.dll
+E:\李润华\练手项目\C#\控制台程序\bin\Debug\netcoreapp3.1\控制台程序.pdb
+E:\李润华\练手项目\C#\控制台程序\obj\Debug\netcoreapp3.1\控制台程序.csprojAssemblyReference.cache
+E:\李润华\练手项目\C#\控制台程序\obj\Debug\netcoreapp3.1\控制台程序.csproj.CoreCompileInputs.cache
+E:\李润华\练手项目\C#\控制台程序\obj\Debug\netcoreapp3.1\控制台程序.AssemblyInfoInputs.cache
+E:\李润华\练手项目\C#\控制台程序\obj\Debug\netcoreapp3.1\控制台程序.AssemblyInfo.cs
+E:\李润华\练手项目\C#\控制台程序\obj\Debug\netcoreapp3.1\控制台程序.dll
+E:\李润华\练手项目\C#\控制台程序\obj\Debug\netcoreapp3.1\控制台程序.pdb
+E:\李润华\练手项目\C#\控制台程序\obj\Debug\netcoreapp3.1\控制台程序.genruntimeconfig.cache
